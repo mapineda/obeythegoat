@@ -11,3 +11,9 @@ Find it online here: http://www.obeythetestinggoat.com/
 # Contact:
 
 * Twitter: [@marcoapineda13](http://twitter.com/marcoapineda13)
+
+
+## TODOS:
+
+* Clean up after FT runs
+* Support more than one list
